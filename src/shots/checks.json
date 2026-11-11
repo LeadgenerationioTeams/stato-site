@@ -1,0 +1,722 @@
+[
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "about",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "about",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "contact",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "contact",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "how-we-work",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "how-we-work",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "index",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "index",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "licensing",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "licensing",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/automation-ai",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/automation-ai",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/crm-integrations",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/crm-integrations",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/lead-gen-platforms",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/lead-gen-platforms",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/portals",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/portals",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/web-apps",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "services/web-apps",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/invoicing",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/invoicing",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/lead-portal",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/lead-portal",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/leadform",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/leadform",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/property-leads",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/property-leads",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/solar-diary",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/solar-diary",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/waste-lead-centre",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "chromium",
+  "page": "work/waste-lead-centre",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "about",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "about",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "contact",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "contact",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "how-we-work",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "how-we-work",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "index",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "index",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "licensing",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "licensing",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/automation-ai",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/automation-ai",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/crm-integrations",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/crm-integrations",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/lead-gen-platforms",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/lead-gen-platforms",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/portals",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/portals",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/web-apps",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "services/web-apps",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/invoicing",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/invoicing",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/lead-portal",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/lead-portal",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/leadform",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/leadform",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/property-leads",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/property-leads",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/solar-diary",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/solar-diary",
+  "w": 390,
+  "open": true,
+  "closed": true
+ },
+ {
+  "sw": 1440,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/waste-lead-centre",
+  "w": 1440
+ },
+ {
+  "sw": 390,
+  "sam": 0,
+  "minFont": 14,
+  "small": [],
+  "eng": "webkit",
+  "page": "work/waste-lead-centre",
+  "w": 390,
+  "open": true,
+  "closed": true
+ }
+]
